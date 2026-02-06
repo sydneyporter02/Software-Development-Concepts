@@ -28,7 +28,7 @@ Flowchart
 The following flowchart illustrates the step-by-step logic of the
 pattern-searching algorithm.
 
-![Pattern-Searching Algorithm Flowchart](./pattern-algorithm.png)
+![Pattern-Searching Algorithm Flowchart](./pattern-flowchart.png)
 
 The flowchart was created using standard ANSI shapes to show input, processing,
 decision points, and output.
