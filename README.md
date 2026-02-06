@@ -40,18 +40,18 @@ Pseudocode
 ----------
 The flowchart can be translated into the following pseudocode:
 
-define text
-define input pattern
-set match_count to 0
+#define text
+#define input pattern
+#set match_count to 0
 
-while there are still elements left to search in text:
+#while there are still elements left to search in text:
     move to the next element
     if the current element matches the pattern:
         increase match_count by 1
 
-if match_count is greater than 0:
+#if match_count is greater than 0:
     display that the pattern was found match_count times
-else:
+#else:
     display that the pattern was not found in the text
 
 
